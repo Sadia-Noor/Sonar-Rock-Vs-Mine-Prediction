@@ -1,7 +1,7 @@
 # Sonar-Rock-Vs-Mine-Prediction with Python
  "Sonar Rock vs Mine Prediction: A machine learning project using Logistic Regression for classifying objects in sonar data as either rocks or mines.
 
-# Table of Contents# Table of Contents
+# Table of Contents
 1. Introduction
 2. Importing the Libraries
 3. Data Collection and Data Processing
